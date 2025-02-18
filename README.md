@@ -166,5 +166,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 ## Contact
-- **GitHub:** [Your GitHub Username](https://github.com/your-username)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+- **GitHub:** [imakhxl](https://github.com/imakhxl)
+- **LinkedIn:** [Akhil Jyothidas](https://www.linkedin.com/in/akhil-jyothidas)
